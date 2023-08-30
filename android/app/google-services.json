@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059574797005",
+    "project_id": "pokedex-flutter-d82f9",
+    "storage_bucket": "pokedex-flutter-d82f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059574797005:android:00438eb3ffcaa9ab77cf84",
+        "android_client_info": {
+          "package_name": "com.example.pokedex_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059574797005-sbab9tk1865eo15cp6q34an71ocpqpe9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYr_rD_mgLGgb0uQ-AGx8ipowI758MYT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059574797005-sbab9tk1865eo15cp6q34an71ocpqpe9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
